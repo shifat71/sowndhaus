@@ -1866,7 +1866,7 @@ line-height: 30px;
 .welcome-message {
 float: left;
 width: 100%;
-color: #FFF;
+color: #d68d8d;
 margin-top: 50px;
 text-align: center;
 }
@@ -1923,7 +1923,7 @@ padding: 20px 0 0 0;
 color: #666;
 }
 .welcome-box-section {
-color: #FF6060;
+color: #07b368;
 font-size: 20px;
 font-weight: bold;
 text-transform: uppercase;
@@ -3091,7 +3091,7 @@ display: inline-block;
 .go-pro-btn a, .wc-button a {
 border-radius: 3px;
 padding: 5px 10px;
-color: #FF8181;
+color: #9e7474;
 border: 1px solid #FF8181;
 cursor: pointer;
 text-decoration: none;
